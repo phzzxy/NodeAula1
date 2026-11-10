@@ -17,5 +17,4 @@ else if(media >= 5){
 else{
     situacao = "reprovado"
 }
-
-console.log(`Media ${media.toFixed(1)}: ${situacao}`)
+ 

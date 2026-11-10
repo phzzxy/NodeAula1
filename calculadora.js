@@ -23,4 +23,4 @@ const Dividir = dividir(10, 2)
 const Subtrair = subtrair(Multiplicar, Dividir)
 const resultado = Subtrair
 
-console.log(`O resultado de (12 + 8) * 3 - 10 / 2 é: ${resultado.toFixed(1)}`)
+console.log(`O resultado de (12 + 8) * 3 - 10 / 2 é: ${resultado.toFixed(1)}`) 

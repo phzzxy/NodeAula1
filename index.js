@@ -9,4 +9,4 @@ const curso = "Node.js e APIs"
     }
 
 //3) Mostre o resultado
-console.log(saudacao("turma")); 
+console.log(saudacao("turma"));  

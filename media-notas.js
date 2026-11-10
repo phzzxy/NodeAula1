@@ -14,4 +14,4 @@ function media(n1,n2){
 
 const mediaF = media(aluno.nota, aluno.nota2);
 
-console.log(`${aluno.nome}: media ${mediaF.toFixed(1)}`)
+console.log(`${aluno.nome}: media ${mediaF.toFixed(1)}`) 
